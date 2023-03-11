@@ -1,6 +1,6 @@
 # OS Agorithms
 
-This repository contains the source code for process scheduling and page replacement algorithms.
+This repository contains the source code for process scheduling and page replacement algorithms that i've learned in the Operating Systems course. This is purely for educational purposes.
 
 ## Process Scheduling Algorithms
 
